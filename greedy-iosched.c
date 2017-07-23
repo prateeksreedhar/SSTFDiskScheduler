@@ -185,6 +185,6 @@ module_init(greedy_init);
 module_exit(greedy_exit);
 
 
-MODULE_AUTHOR("Team 1");
+MODULE_AUTHOR("Prateek Bhavya Pratyush Manasa David");
 MODULE_LICENSE("Proprietary");
 MODULE_DESCRIPTION("Greedy IO scheduler");
